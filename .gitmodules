@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ambit"]
+	path = ambit
+	url = https://github.com/cran/ambit
+	shallow = true
+	registered = true
+[submodule "trawl"]
+	path = trawl
+	url = https://github.com/cran/trawl
+	shallow = true
+	registered = true
